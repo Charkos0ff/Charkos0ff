@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![stats](https://github-readme-stats.vercel.app/api?username=Charkosoff&count_private=true&show_icons=true&hide_rank=true&custom_title=Statistics&bg_color=b3e5fc&title_color=000000&icon_color=03a9f4&hide=stars)
 <!--
 **Charkos0ff/Charkos0ff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
